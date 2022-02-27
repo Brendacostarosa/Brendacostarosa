@@ -1,7 +1,7 @@
 ## Olá eu sou a Brenda Costa!!!
 <div align="center">
   <a href="https://github.com/Brendacostarosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brendacostarosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Brendacostarosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
 </div>
   
   
@@ -21,7 +21,7 @@
 
 <div>   
 
-  <img align="right" alt="Brenda-pic" height="200" style="border-radius:100px;" src="https://media.discordapp.net/attachments/947575917855793195/947576103713796126/download20220200161646.png?width=572&height=572">
+  <img align="right" alt="Brenda-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/947575917855793195/947576103713796126/download20220200161646.png?width=572&height=572">
 
 
 
