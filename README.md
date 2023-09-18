@@ -1,9 +1,4 @@
-<div>
-  
-  <h1 align="center">
-    Olá meu nome é Brenda Costa da Rosa!
-  </h1>
-</div>
+
 <div align="center">
   <a href="https://github.com/brendacostarosa">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brendacostarosa&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
